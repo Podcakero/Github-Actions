@@ -1,4 +1,4 @@
-name: Update submodule on Parent Repo if Build succeeds
+name: Update submodules
 
 on: 
   workflow_run:
